@@ -1,6 +1,6 @@
 # Crowdfunding-ETL
 
-This was a good challenge as this seems very apllicable to what we may see in a real world data analyst role. I really enjoy performing anaylsis using SQL.
+This was a good challenge as this seems very appllicable to what we may see in a real world data analyst role. I really enjoy performing anaylsis using SQL.
 Python has been much more challenging to learn as this is the first time I have been exposed to this concept. 
 
 ## Summary
